@@ -11,6 +11,7 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/akky1718-sudo/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/akky1718-sudo/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1251-average-selling-price](https://github.com/akky1718-sudo/leetcode/tree/master/1251-average-selling-price) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/akky1718-sudo/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/akky1718-sudo/leetcode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/akky1718-sudo/leetcode/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
