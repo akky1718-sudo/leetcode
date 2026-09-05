@@ -17,4 +17,5 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/akky1718-sudo/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/akky1718-sudo/leetcode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/akky1718-sudo/leetcode/tree/master/1729-find-followers-count) |
+| [1965-employees-with-missing-information](https://github.com/akky1718-sudo/leetcode/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
